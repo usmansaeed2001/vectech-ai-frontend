@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t1",
+    "name": "Sarah Jenkins",
+    "role": "CTO, TechFlow",
+    "content": "vectech-ai transformed our operations. Their automation solutions saved us hundreds of hours a month.",
+    "avatar": "https://picsum.photos/seed/sarah/150/150"
+  },
+  {
+    "id": "t2",
+    "name": "David Chen",
+    "role": "Founder, RetailPro",
+    "content": "The AI recommendation engine they built for our store was flawless. Highly recommend their expertise.",
+    "avatar": "https://picsum.photos/seed/david/150/150"
+  },
+  {
+    "id": "t3",
+    "name": "Emily Rodriguez",
+    "role": "Operations Manager, HealthPlus",
+    "content": "Professional, fast, and incredibly knowledgeable. The web platform they delivered exceeded our expectations.",
+    "avatar": "https://picsum.photos/seed/emily/150/150"
+  }
+]

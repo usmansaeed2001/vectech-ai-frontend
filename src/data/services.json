@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s1",
+    "title": "AI Solutions",
+    "description": "Custom artificial intelligence models and integrations to optimize your business processes.",
+    "icon": "Brain"
+  },
+  {
+    "id": "s2",
+    "title": "Process Automation",
+    "description": "Streamline operations with intelligent automation, reducing manual work and increasing efficiency.",
+    "icon": "Bot"
+  },
+  {
+    "id": "s3",
+    "title": "Web Development",
+    "description": "High-performance, scalable web applications built with modern technologies.",
+    "icon": "Code"
+  }
+]

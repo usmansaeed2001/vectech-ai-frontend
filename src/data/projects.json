@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "title": "E-Commerce AI Recommendation Engine",
+    "description": "Implemented a personalized product recommendation system that increased sales by 25%.",
+    "image": "https://picsum.photos/seed/ecommerce/800/600",
+    "tags": ["AI", "Python", "React"]
+  },
+  {
+    "id": "p2",
+    "title": "Automated Invoice Processing",
+    "description": "An OCR-based automation tool that extracts data from invoices and syncs with accounting software.",
+    "image": "https://picsum.photos/seed/invoice/800/600",
+    "tags": ["Automation", "OCR", "Node.js"]
+  },
+  {
+    "id": "p3",
+    "title": "SaaS Platform for Healthcare",
+    "description": "A secure, HIPAA-compliant web application for managing patient records and appointments.",
+    "image": "https://picsum.photos/seed/healthcare/800/600",
+    "tags": ["Web Dev", "React", "Node.js"]
+  }
+]
